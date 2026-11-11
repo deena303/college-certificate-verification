@@ -1,0 +1,6 @@
+{
+  "name": "MSAJCE Certificate Registry",
+  "description": "Official internship certificate verification registry for Mohamed Sathak A J College of Engineering (MSAJCE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
